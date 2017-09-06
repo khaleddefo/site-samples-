@@ -1,0 +1,140 @@
+@charset "utf-8";
+body{margin:0; padding:0; background-image:url(../images/bbg3.jpg); background-repeat:no-repeat; background-size:cover; background-attachment:fixed;}
+#Container {
+	width: 1100px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	border-width: 0px;
+	border-style: solid;
+}
+#Logo {
+	background-color: #FC0;
+	float: left;
+	height: 200px;
+	width: 200px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#Banner {
+	background-color: #FF0;
+	float: left;
+	height: 200px;
+	width: 900px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#Nav {
+	background-color: #FCF;
+	float: left;
+	height: 50px;
+	width: 1100px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#ArtOne {
+	float: left;
+	width: 350px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+	height: 250px;
+	background-image: url(../images/bg1.png);
+	background-repeat: no-repeat;
+}
+#ArtOne h3 {
+	margin-left: 90px;
+}
+#ArtOne p {
+	margin-top: 40px;
+}
+
+
+#SepOne {
+	float: left;
+	width: 25px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+	height: 250px;
+}
+#ArtTwo {
+	float: left;
+	width: 350px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+	height: 250px;
+}
+#SepTwo {
+	float: left;
+	width: 25px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+	height: 250px;
+}
+#ArtThree {
+	float: left;
+	width: 350px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+	height: 250px;
+}
+#Footer {
+	color: #FFF;
+	background-color: #666;
+	clear: both;
+	float: left;
+	height: 420px;
+	width: 1100px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+.ALink {
+	color: #FF0000;
+	text-decoration: none;
+	font-weight: bold;
+}
+#ArtFour {
+	float: left;
+	height: 250px;
+	width: 525px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#SepThree {
+	float: left;
+	height: 250px;
+	width: 50px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
+#ArtFive {
+	float: left;
+	height: 250px;
+	width: 525px;
+	margin-right: 0px;
+	margin-left: 0px;
+	border-width: 0px;
+	border-style: solid;
+}
